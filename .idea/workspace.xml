@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4023e31d-d070-4395-956d-5f5827fdc7af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruhWEB" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/navside/navside.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/navside/navside.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/user-detail/user-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/user-detail/user-detail.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/user-detail/user-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/user-detail/user-detail.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/users/users.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BruhWEB/Webovka/src/app/users/users.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webovka" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
